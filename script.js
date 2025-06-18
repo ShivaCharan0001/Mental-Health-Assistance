@@ -30,7 +30,7 @@ const app = initializeApp(firebaseConfig);
 const auth = getAuth();
 const db = getFirestore(app);
 const provider = new GoogleAuthProvider();
-const genAI = new GoogleGenerativeAI("AIzaSyAy5yFD9fcE8b8Gr8ZNLz053SNybVE_OUs");
+const genAI = new GoogleGenerativeAI("");
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // Ensure user is authenticated before accessing home page
