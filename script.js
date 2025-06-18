@@ -22,13 +22,7 @@ import { GoogleGenerativeAI } from "https://esm.sh/@google/generative-ai";
 
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBo2z3a__-RSjUXzjELJMXcc0c-BTdJkr0",
-    authDomain: "mental-health-assistance-44093.firebaseapp.com",
-    projectId: "mental-health-assistance-44093",
-    storageBucket: "mental-health-assistance-44093.firebasestorage.app",
-    messagingSenderId: "139489377631",
-    appId: "1:139489377631:web:42cc3264f167d2fbdd0aea",
-    measurementId: "G-PNBC83NNEC"
+    //FireBase API details
 };
 
 // Initialize Firebase
