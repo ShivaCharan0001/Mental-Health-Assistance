@@ -46,7 +46,7 @@ Follow these steps to run the application locally:
     ```
 
 ## Usage 
-- Visit: https://rithvik0906.github.io/Mental-Health-Assistance/
+- Visit: [Live Demo](https://rithvik0906.github.io/Mental-Health-Assistance/)
 - Register using your email or Google account.
 - Log in to access the personalized dashboard.
 - Submit your mental health concerns to receive AI-based relaxation tips.
